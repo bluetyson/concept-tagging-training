@@ -1,5 +1,5 @@
 # dsconcept
-Python library with supporting classes for runnning processing, 
+Python library with supporting classes for running processing, 
 and training of classifiers. Originally desgined for 
 tagging the [NASA STI database](https://www.sti.nasa.gov/).
 
